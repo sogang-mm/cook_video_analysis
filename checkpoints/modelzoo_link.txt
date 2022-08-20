@@ -1,0 +1,2 @@
+modelzoo link:
+https://mmaction2.readthedocs.io/en/latest/recognition_models.html
